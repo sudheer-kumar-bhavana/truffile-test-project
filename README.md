@@ -26,3 +26,6 @@ truffle migrate --network ropsten
 
 ```
 
+It takes some time to get the contract deployed on to block chain, once done you can check Employees.jso file under build\contracts and get contract address under "networks"
+you can take this address and inspect etherscan https://ropsten.etherscan.io/
+
