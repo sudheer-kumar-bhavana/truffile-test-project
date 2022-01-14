@@ -1,4 +1,4 @@
-# truffile-test-project
+# truffle-test-project
 
 ### This is a simple truffle project to deploy smart contracts to ethereum network, it uses infura API to interact with Block chain
 
